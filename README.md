@@ -106,7 +106,7 @@ The function node is used to run JavaScript code against the msg object. The fun
 
 - **Double click on the node to open up the configuration options.**
 
-Here you have to write little javacript code to create a condition,so at particular temperature value email alert will be sent to the respective email id.
+Here you have to write little javacript code to create a condition,so at particular temperature value email alert will be sent to the respective email id
 ```
 var rms_x = msg.payload.rms_x;
 var rms_y = msg.payload.rms_y;
