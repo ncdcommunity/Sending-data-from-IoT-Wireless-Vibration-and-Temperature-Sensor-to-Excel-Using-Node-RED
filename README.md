@@ -94,7 +94,7 @@ You’ll notice this automatically sets the sensor type for you, you can also gi
 
 ![alt tag](https://github.com/rjrajbir/Email-Alerts-with-Vibration-and-Temperature-Sensor/blob/master/debug_wirelessdevice_step1.JPG)
 
-- **Double click on it and click done**
+- **Double click on it and click done.**
 
 ![alt tag](https://github.com/rjrajbir/Email-Alerts-with-Vibration-and-Temperature-Sensor/blob/master/debug_wirelessdevice_step2.JPG)
 
